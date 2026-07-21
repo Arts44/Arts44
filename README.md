@@ -1,27 +1,86 @@
-<img src="assets/banner.svg" alt="Arts44 — web & app development" width="100%">
+<p align="center">
+  <img src="assets/banner.svg" alt="Arts44 — web & app development" width="100%">
+</p>
 
 # Arthur
 
-Self-taught developer based in Belgium. Starting formal web and app development studies in September 2026.
+Building fast, lightweight and reliable web applications with a focus on performance, offline support and clean code.
 
-## Featured project — F1 UNO Élite
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PWA-Offline--First-5A0FC8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/REST-API-0A84FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Supabase-Cloud-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img src="https://img.shields.io/badge/Belgium-🇧🇪-E30613?style=for-the-badge">
+</p>
 
-A progressive web app for tracking an *F1 UNO Élite* trading-card collection: 101 cards from the 2025 season, each in up to 16 variants, with owned/doubles/wishlist tracking, a six-level rarity system, badges and completion stats.
+---
 
-**[Live app](https://arts44.github.io/f1-uno-elite/)** · **[Source](https://github.com/Arts44/f1-uno-elite)**
+# ⭐ Featured Project — F1 UNO Élite
 
-- Vanilla JavaScript with **zero runtime dependencies** — no framework, no SDK, no CDN. esbuild is the only build-time dependency.
-- **Offline-first service worker**: versioned precache, and a new version is picked up in the background and applied from a one-tap banner rather than a forced reload.
-- **Optional Supabase cloud sync** over pure REST `fetch()` — no SDK — with email OTP authentication, chosen because magic links break inside an installed PWA.
-- **7 languages** (English, French, Spanish, Chinese, Italian, Dutch, German), every string included.
-- **166 automated tests** on Node's built-in test runner, run in GitHub Actions along with a check that the committed bundle matches the sources.
+A progressive web app for tracking an **F1 UNO Élite** trading-card collection.
+
+It supports the complete 2025 collection (**101 cards**), each available in **up to 16 variants**, with ownership tracking, wishlists, duplicate management, rarity levels, achievements and completion statistics.
+
+### Links
+
+🌐 **Live:** https://arts44.github.io/f1-uno-elite/
+
+📦 **Repository:** https://github.com/Arts44/f1-uno-elite
+
+### Highlights
+
+- Zero runtime dependencies
+- Vanilla JavaScript
+- Offline-first Progressive Web App
+- REST-based Supabase cloud sync
+- Email OTP authentication
+- 7 supported languages
+- 166 automated tests
+- GitHub Actions CI
+- Responsive design
+- Installable on desktop and mobile
 
 <sub>Unofficial fan project, non-commercial. Not affiliated with Formula 1 or Mattel/UNO.</sub>
 
-## Currently learning
+---
 
-Java, web fundamentals, and the basics of cybersecurity.
+# 🛠 Tech Stack
 
-## Contact
+### Languages
 
-Reach me through GitHub — [@Arts44](https://github.com/Arts44).
+- JavaScript
+- Java
+- HTML5
+- CSS3
+
+### Tools
+
+- Git
+- GitHub
+- esbuild
+- Supabase
+- VS Code
+
+### Currently learning
+
+- Java
+- Web development
+- Progressive Web Apps
+- Cybersecurity fundamentals
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arts44&show_icons=true&theme=github_dark&hide_border=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arts44&layout=compact&theme=github_dark&hide_border=true">
+</p>
+
+---
+
+# 📫 Contact
+
+GitHub → https://github.com/Arts44
