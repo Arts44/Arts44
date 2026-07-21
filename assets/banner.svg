@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Arthur Mestdagt  HEC Liège · Developer · Belgium">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e14"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#1c2330" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="16" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="16" fill="url(#grid)" opacity="0.55"/>
+  <ellipse cx="1040" cy="160" rx="260" ry="150" fill="url(#glow)" filter="url(#soft)"/>
+
+  <!-- Telemetry arcs -->
+  <path d="M 900 260 A 180 180 0 0 1 1060 80" fill="none" stroke="#21262d" stroke-width="1.5"/>
+  <path d="M 920 260 A 150 150 0 0 1 1040 100" fill="none" stroke="#30363d" stroke-width="1"/>
+  <path d="M 940 260 A 120 120 0 0 1 1020 120" fill="none" stroke="url(#sky)" stroke-width="2" opacity="0.7"/>
+
+  <!-- Speed traces -->
+  <g stroke-linecap="round" fill="none">
+    <line x1="720" y1="88"  x2="1240" y2="88"  stroke="#21262d" stroke-width="4"/>
+    <line x1="820" y1="128" x2="1240" y2="128" stroke="#30363d" stroke-width="3"/>
+    <line x1="660" y1="168" x2="1240" y2="168" stroke="url(#sky)" stroke-width="7"/>
+    <line x1="900" y1="208" x2="1240" y2="208" stroke="#21262d" stroke-width="4"/>
+    <line x1="580" y1="248" x2="1240" y2="248" stroke="url(#sky)" stroke-width="5" opacity="0.85"/>
+  </g>
+
+  <!-- Engineering readout -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" fill="#484f58">
+    <text x="1088" y="56" font-size="11" letter-spacing="1">LAP 01</text>
+    <text x="1088" y="72" font-size="11" letter-spacing="1">SECTOR 3</text>
+    <rect x="1088" y="82" width="72" height="3" rx="1.5" fill="#30363d"/>
+    <rect x="1088" y="82" width="48" height="3" rx="1.5" fill="url(#sky)"/>
+  </g>
+
+  <!-- Lens ring -->
+  <circle cx="1160" cy="248" r="28" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="1160" cy="248" r="16" fill="none" stroke="#484f58" stroke-width="1"/>
+  <circle cx="1160" cy="248" r="5" fill="#38bdf8" opacity="0.9"/>
+
+  <text x="72" y="108"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="20" font-weight="500" fill="#6e7681" letter-spacing="5">ARTHUR MESTDAGT</text>
+
+  <text x="70" y="178"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="64" font-weight="600" fill="#f0f6fc" letter-spacing="-1.5">Arts44</text>
+
+  <text x="74" y="222"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="21" font-weight="400" fill="#8b949e">HEC Liège · Developer · Belgium</text>
+
+  <rect x="74" y="246" width="96" height="3" rx="1.5" fill="url(#sky)"/>
+
+  <text x="74" y="282"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="15" fill="#6e7681">Formula 1 · AI · Code · Minecraft · Photography</text>
+</svg>
