@@ -1,3 +1,5 @@
+<img src="assets/banner.svg" alt="Arts44 — web & app development" width="100%">
+
 # Arthur
 
 Self-taught developer based in Belgium. Starting formal web and app development studies in September 2026.
