@@ -1,86 +1,163 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Arts44 — web & app development" width="100%">
+  <img src="assets/banner.svg" width="100%" alt="Arts44 — Web & App Development">
 </p>
 
-# Arthur
+<h1 align="center">Arthur</h1>
 
-Building fast, lightweight and reliable web applications with a focus on performance, offline support and clean code.
+<p align="center">
+  <strong>Web & App Developer from Belgium 🇧🇪</strong>
+</p>
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/PWA-Offline--First-5A0FC8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/REST-API-0A84FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Supabase-Cloud-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/Belgium-🇧🇪-E30613?style=for-the-badge">
+<p align="center">
+I build lightweight, offline-first applications with a strong focus on performance, reliability and user experience.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/PWA-Offline_First-5A0FC8?style=for-the-badge">
+<img src="https://img.shields.io/badge/REST_API-0A84FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github">
 </p>
 
 ---
 
-# ⭐ Featured Project — F1 UNO Élite
+# About
 
-A progressive web app for tracking an **F1 UNO Élite** trading-card collection.
+I enjoy creating software that feels **fast**, **clean**, and **thoughtfully engineered**.
 
-It supports the complete 2025 collection (**101 cards**), each available in **up to 16 variants**, with ownership tracking, wishlists, duplicate management, rarity levels, achievements and completion statistics.
+Motorsport has influenced the way I approach development: optimize what matters, remove unnecessary complexity, and keep improving every detail.
 
-### Links
+I'm currently studying Web & App Development while building projects that prioritize **quality over quantity**.
 
-🌐 **Live:** https://arts44.github.io/f1-uno-elite/
+---
 
-📦 **Repository:** https://github.com/Arts44/f1-uno-elite
+# Featured Project
+
+## 🏎 F1 UNO Élite
+
+A Progressive Web App built for collectors of the **F1 UNO Élite** cards.
+
+> Offline-first • Installable • Responsive • Fast
+
+| | |
+|:-|:-|
+|🏁 Cards|101|
+|✨ Variants|16|
+|🌍 Languages|7|
+|🧪 Tests|166|
+|📱 Platform|PWA|
+|☁ Sync|Supabase REST|
 
 ### Highlights
 
 - Zero runtime dependencies
 - Vanilla JavaScript
-- Offline-first Progressive Web App
-- REST-based Supabase cloud sync
+- Offline-first architecture
+- Background updates
+- Optional cloud synchronization
 - Email OTP authentication
-- 7 supported languages
-- 166 automated tests
+- Installable on desktop & mobile
 - GitHub Actions CI
-- Responsive design
-- Installable on desktop and mobile
-
-<sub>Unofficial fan project, non-commercial. Not affiliated with Formula 1 or Mattel/UNO.</sub>
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-- JavaScript
-- Java
-- HTML5
-- CSS3
-
-### Tools
-
-- Git
-- GitHub
-- esbuild
-- Supabase
-- VS Code
-
-### Currently learning
-
-- Java
-- Web development
-- Progressive Web Apps
-- Cybersecurity fundamentals
-
----
-
-# 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arts44&show_icons=true&theme=github_dark&hide_border=true">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arts44&layout=compact&theme=github_dark&hide_border=true">
+### 🌐 Live
+
+https://arts44.github.io/f1-uno-elite/
+
+### 📦 Source
+
+https://github.com/Arts44/f1-uno-elite
+
 </p>
 
 ---
 
-# 📫 Contact
+# Philosophy
 
-GitHub → https://github.com/Arts44
+> **Performance over complexity.**
+
+> **Offline before online.**
+
+> **Quality before quantity.**
+
+> **Small details create great experiences.**
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=js,java,html,css">
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode">
+
+</p>
+
+### Currently Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java">
+
+</p>
+
+- Progressive Web Apps
+- Cybersecurity
+- Software Architecture
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Arts44&show_icons=true&theme=github_dark&hide_border=true">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arts44&layout=compact&theme=github_dark&hide_border=true">
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arts44&theme=github-dark&hide_border=true">
+
+</p>
+
+---
+
+# Current Goals
+
+- Build high-quality web applications
+- Deepen Java knowledge
+- Learn backend development
+- Contribute to open source
+- Keep improving F1 UNO Élite
+
+---
+
+# Contact
+
+<p align="center">
+
+<a href="https://github.com/Arts44">GitHub</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### "Performance is a feature."
+
+</p>
