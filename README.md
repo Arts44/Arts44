@@ -144,44 +144,6 @@ Features:
 
 
 
-## 🎮 Minecraft Projects
-
-
-
-Custom Minecraft experiences:
-
-
-
-- Modded survival servers
-
-- Economy systems
-
-- Custom environments
-
-- Technical optimizations
-
-- Community features
-
-
-
-Technologies explored:
-
-
-
-- Java
-
-- Forge
-
-- Minecraft APIs
-
-- Server administration
-
-
-
----
-
-
-
 ## 📸 Photography Workflow
 
 
